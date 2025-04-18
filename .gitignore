@@ -1,3 +1,5 @@
+# ignore CSV export files
+*.csv
 # deps
 node_modules
 
